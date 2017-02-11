@@ -1,0 +1,3 @@
+uidTextBox=.//*[@id='login1']
+pwdTextBox=.//*[@id='password']
+goButton=proceed

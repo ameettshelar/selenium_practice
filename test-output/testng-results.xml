@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="435" started-at="2016-12-24T16:03:54Z" finished-at="2016-12-24T16:03:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="435" started-at="2016-12-24T16:03:54Z" finished-at="2016-12-24T16:03:55Z">
+      <class name="TestNG.FacSimpleTest">
+        <test-method status="PASS" signature="tm1()[pri:0, instance:TestNG.FacSimpleTest@1341870]" name="tm1" duration-ms="258" started-at="2016-12-24T21:33:54Z" finished-at="2016-12-24T21:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm1 -->
+        <test-method status="PASS" signature="tm1()[pri:0, instance:TestNG.FacSimpleTest@bf9759]" name="tm1" duration-ms="2" started-at="2016-12-24T21:33:55Z" finished-at="2016-12-24T21:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm1 -->
+        <test-method status="PASS" signature="tm2()[pri:0, instance:TestNG.FacSimpleTest@1341870]" name="tm2" duration-ms="3" started-at="2016-12-24T21:33:55Z" finished-at="2016-12-24T21:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm2 -->
+        <test-method status="PASS" signature="tm2()[pri:0, instance:TestNG.FacSimpleTest@bf9759]" name="tm2" duration-ms="7" started-at="2016-12-24T21:33:55Z" finished-at="2016-12-24T21:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm2 -->
+      </class> <!-- TestNG.FacSimpleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
